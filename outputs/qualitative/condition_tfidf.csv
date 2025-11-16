@@ -1,0 +1,101 @@
+Condition,Term,TF-IDF,TF
+Baseline,idea,0.031056,5
+Baseline,new,0.026189,3
+Baseline,out,0.026189,3
+Baseline,use,0.026189,3
+Baseline,find,0.026189,3
+Baseline,not,0.024845,4
+Baseline,question,0.024845,4
+Baseline,llms,0.018634,3
+Baseline,coming,0.018634,3
+Baseline,up,0.018634,3
+Baseline,me,0.018634,3
+Baseline,task,0.017459,2
+Baseline,problems,0.017459,2
+Baseline,creating,0.017459,2
+Baseline,well,0.017459,2
+Baseline,innovative,0.017459,2
+Baseline,platform,0.017459,2
+Baseline,defined,0.017459,2
+Baseline,while,0.017459,2
+Baseline,references,0.017459,2
+Baseline,challenging,0.017459,2
+Baseline,approach,0.017459,2
+Baseline,design,0.012422,2
+Baseline,questions,0.012422,2
+Baseline,good,0.012422,2
+Baseline,similar,0.012422,2
+Baseline,details,0.012422,2
+Baseline,my,0.012422,2
+Baseline,process,0.012422,2
+Baseline,formatting,0.012422,2
+Baseline,most,0.012422,2
+Baseline,gpt,0.008730,1
+Baseline,do,0.008730,1
+Baseline,everything,0.008730,1
+Baseline,explaining,0.008730,1
+Baseline,goal,0.008730,1
+Baseline,write,0.008730,1
+Baseline,roadmap,0.008730,1
+Baseline,considerable,0.008730,1
+Baseline,access,0.008730,1
+Baseline,commonly,0.008730,1
+Baseline,known,0.008730,1
+Baseline,previous,0.008730,1
+Baseline,lack,0.008730,1
+Baseline,diversity,0.008730,1
+Baseline,previously,0.008730,1
+Baseline,available,0.008730,1
+Baseline,ones,0.008730,1
+Baseline,internet,0.008730,1
+Baseline,generalize,0.008730,1
+Experimental System,brainstorming,0.028489,6
+Experimental System,ideas,0.028489,6
+Experimental System,better,0.023741,5
+Experimental System,some,0.023741,5
+Experimental System,question,0.023649,7
+Experimental System,pdf,0.018993,4
+Experimental System,generation,0.018993,4
+Experimental System,more,0.018993,4
+Experimental System,could,0.016892,5
+Experimental System,but,0.016892,5
+Experimental System,latex,0.014245,3
+Experimental System,module,0.014245,3
+Experimental System,would,0.014245,3
+Experimental System,system,0.014245,3
+Experimental System,also,0.014245,3
+Experimental System,idea,0.013514,4
+Experimental System,design,0.013514,4
+Experimental System,generated,0.010135,3
+Experimental System,me,0.010135,3
+Experimental System,not,0.010135,3
+Experimental System,formatting,0.010135,3
+Experimental System,brain,0.009496,2
+Experimental System,storm,0.009496,2
+Experimental System,get,0.009496,2
+Experimental System,way,0.009496,2
+Experimental System,added,0.009496,2
+Experimental System,like,0.009496,2
+Experimental System,format,0.009496,2
+Experimental System,liked,0.009496,2
+Experimental System,think,0.009496,2
+Experimental System,can,0.009496,2
+Experimental System,different,0.009496,2
+Experimental System,all,0.009496,2
+Experimental System,making,0.009496,2
+Experimental System,feature,0.009496,2
+Experimental System,ai,0.009496,2
+Experimental System,every,0.009496,2
+Experimental System,big,0.009496,2
+Experimental System,one,0.009496,2
+Experimental System,times,0.009496,2
+Experimental System,diverse,0.009496,2
+Experimental System,function,0.009496,2
+Experimental System,generating,0.009496,2
+Experimental System,problem,0.006757,2
+Experimental System,my,0.006757,2
+Experimental System,difficulty,0.006757,2
+Experimental System,most,0.006757,2
+Experimental System,however,0.006757,2
+Experimental System,did,0.006757,2
+Experimental System,queries,0.004748,1

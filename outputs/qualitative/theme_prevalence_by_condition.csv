@@ -1,0 +1,19 @@
+Condition,Theme,Mentions,Mentions per comment
+Baseline,brainstorm_support,4,0.40
+Baseline,design_refinement,3,0.30
+Baseline,latex_pdf,2,0.20
+Baseline,usability_ui,0,0.00
+Baseline,innovation_quality,1,0.10
+Baseline,formatting_effort,4,0.40
+Baseline,helpfulness_ai,4,0.40
+Baseline,time_saving,1,0.10
+Baseline,general,2,0.20
+Experimental System,brainstorm_support,7,0.58
+Experimental System,design_refinement,6,0.50
+Experimental System,latex_pdf,7,0.58
+Experimental System,usability_ui,2,0.17
+Experimental System,innovation_quality,2,0.17
+Experimental System,formatting_effort,4,0.33
+Experimental System,helpfulness_ai,8,0.67
+Experimental System,time_saving,3,0.25
+Experimental System,general,0,0.00

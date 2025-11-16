@@ -1,0 +1,6 @@
+Measure,Categories,Chi-square Stat,Permutation p,N Baseline,N Experimental,p_holm
+Task Completion,"Partially; Yes, Completely; Yes, Mostly (minor elements incomplete)",1.0476190476190474,1.0,12,12,1.0
+How helpful was the Brainstorm module in generating ideas for your question?,3; 4; 5,0.0,1.0,0,11,1.0
+How helpful was the Design module in refining and structuring your question?,2; 3; 4; 5,0.0,1.0,0,12,1.0
+How helpful was the Generate module in finalizing your question?,3; 4; 5,0.0,1.0,0,12,1.0
+The final document generation feature saved me time (or can save me time in my actual TA process):,5,0.0,1.0,0,12,1.0

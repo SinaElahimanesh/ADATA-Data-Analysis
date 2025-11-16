@@ -1,0 +1,8 @@
+Condition,Completion,Count,Percent
+Baseline,"Yes, Completely",10,83.3%
+Baseline,Partially,1,8.3%
+Baseline,"Yes, Mostly (minor elements incomplete)",1,8.3%
+Baseline,TOTAL,12,100.0%
+Experimental System,"Yes, Completely",11,91.7%
+Experimental System,"Yes, Mostly (minor elements incomplete)",1,8.3%
+Experimental System,TOTAL,12,100.0%

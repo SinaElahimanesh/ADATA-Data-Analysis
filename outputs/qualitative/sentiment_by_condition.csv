@@ -1,0 +1,7 @@
+Condition,Sentiment,Count,Percent
+Baseline,positive,2,20.0%
+Baseline,neutral,7,70.0%
+Baseline,negative,1,10.0%
+Experimental System,positive,3,25.0%
+Experimental System,neutral,8,66.7%
+Experimental System,negative,1,8.3%

@@ -1,0 +1,12 @@
+Metric,Baseline Mean,Experimental Mean,Mean Diff (B - E),Cohen d,Cliff Delta,N Baseline,N Experimental
+Time (minutes),24.33,10.92,13.42,1.45,0.68,12,12
+Satisfaction (1-5),3.58,4.25,-0.67,-0.86,-0.44,12,12
+Agreement [I am confident that my designed question aligns well with the assignments topic.],3.50,4.00,-0.50,-0.34,-0.17,12,12
+Agreement [I am happy with the level of innovation and creativity of my designed question.],2.83,3.58,-0.75,-0.57,-0.32,12,12
+"Agreement [I feel like my designed question doesn't have high pedagogical quality (i.e., it is clear, fair, and effectively tests the intended concepts).]",2.83,2.58,0.25,0.21,0.14,12,12
+Agreement [It was easy to come up with an idea for the new question.],1.92,3.75,-1.83,-1.45,-0.67,12,12
+Agreement [It was hard to write and format the new question.],3.17,2.00,1.17,0.83,0.42,12,12
+"[Mental Demand: How much mental and perceptual activity was required (e.g., thinking, deciding, calculating)?]",3.67,1.42,2.25,2.38,0.85,12,12
+[Temporal Demand (Pace): How much time pressure did you feel due to the rate or pace at which the task needed to be performed?],3.42,1.33,2.08,1.86,0.75,12,12
+"[Frustration Level: How insecure, discouraged, irritated, and stressed versus secure, gratified, content, and relaxed did you feel during the task?]",3.00,2.33,0.67,0.58,0.35,12,12
+NASA TLX Composite,3.36,1.69,1.67,2.00,0.82,12,12
